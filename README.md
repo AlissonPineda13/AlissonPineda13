@@ -6,7 +6,7 @@
 
 🎓 I am a QA student with a growing interest in Python.
 
-⚙️ 🛠️ I have hands-on experience in technical support at an e-commerce logistics company, where I collaborated with customer managers, deployment, and development teams.
+⚙️ I have hands-on experience in technical support at an e-commerce logistics company, where I collaborated with customer managers, deployment, and development teams.
 
 💡 I enjoy learning and building projects that are productive, innovative, and creative.
 
